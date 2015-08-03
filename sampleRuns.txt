@@ -1,0 +1,19 @@
+Input dat word:hello
+Unweighted prediction: English 4.2070342732999676e-08 > 1.369441767864555e-08
+Weighted prediction: English 2.2980495605240314e-06 > 2.6730869239896532e-09
+
+Input dat word:dobro
+Unweighted prediction: Croatian 1.7739216696691577e-06 > 1.1737331575746632e-08
+Weighted prediction: Croatian 3.438295950936292e-06 > 4.099189413658962e-09
+
+Input dat word:keanu
+Unweighted prediction: Croatian 3.4678384636642662e-09 > 2.4117309729321587e-09
+Weighted prediction: English 8.883795776798192e-10 > 5.685603059469596e-11
+
+Input dat word:hrvastki
+Unweighted prediction: Croatian 4.4049995297415185e-12 > 0.0
+Weighted prediction: Croatian 5.538073532830736e-13 > 0.0
+
+Input dat word:purple
+Unweighted prediction: English 1.085299942093938e-08 > 0.0
+Weighted prediction: English 3.89646113720957e-09 > 0.0
